@@ -22,5 +22,11 @@
         "key": "Amir",
         "expirydate": "31-12-9999",
         "Allowoffline": true
+    },
+    {
+        "device_id": "Maxka",
+        "key": "Mahan",
+        "expirydate": "1-12-2027",
+        "Allowoffline": true
     }
 ]
