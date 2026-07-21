@@ -16,5 +16,11 @@
         "key": "MATIN",
         "expirydate": "31-12-3000",
         "Allowoffline": true
+    },
+    {
+        "device_id": "7f75b35145f89cd4",
+        "key": "Amir",
+        "expirydate": "31-12-9999",
+        "Allowoffline": true
     }
 ]
