@@ -6,12 +6,6 @@
         "Allowoffline": true
     },
     {
-        "device_id": "10471951",
-        "key": "Mahan",
-        "expirydate": "31-12-3000",
-        "Allowoffline": false
-    },
-    {
         "device_id": "f8fe54c04484c516",
         "key": "MATIN",
         "expirydate": "31-12-3000",
@@ -21,12 +15,6 @@
         "device_id": "7f75b35145f89cd4",
         "key": "Amir",
         "expirydate": "31-12-9999",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "Maxka",
-        "key": "Mahan",
-        "expirydate": "1-12-2027",
         "Allowoffline": true
     }
 ]
