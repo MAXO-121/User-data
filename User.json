@@ -4,5 +4,11 @@
         "key": "Maxo",
         "expirydate": "31-12-3000",
         "Allowoffline": true
+    },
+    {
+        "device_id": "10471951",
+        "key": "Mahan",
+        "expirydate": "31-12-3000",
+        "Allowoffline": false
     }
 ]
