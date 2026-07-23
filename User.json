@@ -16,5 +16,11 @@
         "key": "Amir",
         "expirydate": "31-12-9999",
         "Allowoffline": true
+    },
+    {
+        "device_id": "➕ Add User",
+        "key": "➕ Add User",
+        "expirydate": "➕ Add User",
+        "Allowoffline": false
     }
 ]
