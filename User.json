@@ -28,5 +28,11 @@
         "key": "Mahan",
         "expirydate": "📋 List Active Users",
         "Allowoffline": true
+    },
+    {
+        "device_id": "Maxo",
+        "key": "بله",
+        "expirydate": "Mahan",
+        "Allowoffline": false
     }
 ]
