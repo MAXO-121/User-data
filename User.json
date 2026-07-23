@@ -22,5 +22,11 @@
         "key": "➕ Add User",
         "expirydate": "➕ Add User",
         "Allowoffline": false
+    },
+    {
+        "device_id": "djakcjskc",
+        "key": "Mahan",
+        "expirydate": "📋 List Active Users",
+        "Allowoffline": true
     }
 ]
