@@ -3,6 +3,8 @@
         "device_id": "f9c78e7e6cb7316b",
         "key": "Mahan",
         "expirydate": "29-12-9999",
-        "Allowoffline": true
+        "Allowoffline": true,
+        "last_ip": "37.137.1.158",
+        "device_model": "Xiaomi 2310FPCA4G"
     }
 ]
