@@ -8,5 +8,13 @@
         "telegram_username": "ME_MAXO_666",
         "last_ip": "23.188.240.197",
         "device_model": "Xiaomi 2310FPCA4G"
+    },
+    {
+        "device_id": "466ada5ed00db5dd",
+        "key": "Matin",
+        "expirydate": "31-12-9999",
+        "Allowoffline": true,
+        "telegram_id": 7585345572,
+        "telegram_username": "SavixXIT"
     }
 ]
